@@ -2,7 +2,7 @@
 
 ## Local Setup
 ```sh
-$ git clone git@github.com:testdrivenio/react-calculator.git
+$ git clone git@github.com:TheABrad/react-calculator.git
 ```
 
 ```sh

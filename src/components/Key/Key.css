@@ -12,6 +12,7 @@
 
 .operator-key {
   background-color: var(--action-key-color);
+  width: 100%;
 }
 
 .operator-key:hover {
